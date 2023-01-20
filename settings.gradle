@@ -1,5 +1,2 @@
 rootProject.name = 'otusJava'
-include 'L01-gradle'
-include 'Test'
-include 'Test'
-
+include 'HW01-gradle'

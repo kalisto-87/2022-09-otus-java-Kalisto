@@ -10,6 +10,7 @@ import java.util.NavigableMap;
 import java.util.TreeMap;
 
 public class HelloOtus {
+
     public static void main(String... args) {
         NavigableMap<String, String> map = new TreeMap<String, String>();
         map.put("ivanov", "11-11-11");
